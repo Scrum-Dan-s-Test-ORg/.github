@@ -9,9 +9,9 @@ Pick the right starting point for your journey 👇
 
 | Plan       | What you get | Best for | Start here |
 |------------|--------------|----------|------------|
-| **Framework** (Free) | Core .NET SaaS scaffolding, clean architecture | Hackers, solo devs, OSS | [⚡ Use Template](https://github.com/SaaStacked/saastack/generate) |
-| **Standard** ($1,000) | Framework **+ technical adapters** (DB, Email, Queue, APM, Event Store, Blob, Avatars, Pipelines) | Teams shipping V1 | [⚡ Use Template](https://github.com/SaaStacked/saastack/standard/generate) |
-| **Premium** ($5,000) | **Everything in Standard + Premium adapters** (Billing, Product Metrics, SSO/Auth, Subdomain scaffolds, Roslyn, Env tooling) | Scale-ups & enterprise | [⚡ Use Template](https://github.com/SaaStacked/saastack/premium/generate) |
+| **Framework** (Free) | Core .NET SaaS scaffolding, clean architecture | Hackers, solo devs, OSS | [⚡ Use Template](https://github.com/SaaStacked/saastack) |
+| **Standard** ($1,000) | Framework **+ technical adapters** (DB, Email, Queue, APM, Event Store, Blob, Avatars, Pipelines) | Teams shipping V1 | [⚡ Use Template](https://github.com/SaaStacked/saastack/standard) |
+| **Premium** ($5,000) | **Everything in Standard + Premium adapters** (Billing, Product Metrics, SSO/Auth, Subdomain scaffolds, Roslyn, Env tooling) | Scale-ups & enterprise | [⚡ Use Template](https://github.com/SaaStacked/saastack) |
 
 ---
 
